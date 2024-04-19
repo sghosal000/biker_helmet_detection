@@ -1,5 +1,5 @@
 # folders to be ignored
-pretrained_models/
+models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
